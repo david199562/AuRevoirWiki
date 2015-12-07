@@ -1,6 +1,6 @@
 ## Au revoir, Wiki.
 
-STATUS: General Design
+![phase-design-orange](https://img.shields.io/badge/phase-design-orange.svg)
 
 ### How it works:
 1. Client logs in (i.e. gain access to gist API), sends request (e.g. "Machine Learning") to the request gist (format=JSON). Client also creates a content gist.
