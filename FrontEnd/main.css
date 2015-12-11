@@ -1,0 +1,26 @@
+@font-face {
+    font-family: os-bold;
+    src: url(fonts/opensans-900.woff);
+}
+@font-face {
+    font-family: os-slim;
+    src: url(fonts/opensans-300.woff);
+}
+@font-face {
+    font-family: rw-slim;
+    src: url(fonts/raleway-200.woff);
+}
+@font-face {
+    font-family: gm;
+    src: url(fonts/ebgaramond-400.woff);
+}
+
+h1 {
+    font-family: rw-slim;
+    font-size: 3em;
+}
+
+p {
+    font-family: gm;
+    font-size: 1.2em;
+}
