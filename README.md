@@ -13,5 +13,5 @@ We will use private gists so the only way to access them is through IDs. The IDs
 ### External Libraries
 Edit the list when you decide to add more.
 
--[Wikipedia API Python Wrapper](https://github.com/goldsmith/Wikipedia). Very, very convenient.
--[WiTeX](https://github.com/AndrewBelt/WiTeX). Actually pretty useful for figuring out the page layout.
+- [Wikipedia API Python Wrapper](https://github.com/goldsmith/Wikipedia). Very, very convenient.
+- [WiTeX](https://github.com/AndrewBelt/WiTeX). Actually pretty useful for figuring out the page layout.
